@@ -10,7 +10,8 @@ Moreover, it includes plugins for scalastyle and scoverage.
 
 ### How to run the starter project?
 1. Use the command ` https://github.com/bhawna94/scala-maven-example.git ` to pull the repository from Github .
-1. To run the tests with coverage: Run `mvn clean verify`.
+1. To build the service: Open the `scala-mvn` folder in terminal and run `mvn clean install`.
+1. To run the tests with coverage: run `mvn clean verify`.
 
 ### What is scalastyle?
 
